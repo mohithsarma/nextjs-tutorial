@@ -16,7 +16,27 @@ app folder has the following concepts implimented
     - this folder doesn't affect the route path of register, login, forgot-password
     - makes the dx better 
 - the root layout has been changed to include a header and footer 
-    - the header and footer just have header and footer text and a simple padding to pop the color 
+    - the header and footer just have header and footer text and a simple padding to pop the color
+
+### available Routes 
+    [localhost:3000/](localhost:3000/)
+    [localhost:3000/about](localhost:3000/about)
+    [localhost:3000/blog](localhost:3000/blog)
+    [localhost:3000/blog/first](localhost:3000/blog/first)
+    [localhost:3000/blog/second](localhost:3000/blog/second)
+    [localhost:3000/dashboard](localhost:3000/dashboard)
+    [localhost:3000/docs](localhost:3000/docs)
+    [localhost:3000/docs/[dynamicroute]](localhost:3000/docs/[dynamicroute])
+    [localhost:3000/profile](localhost:3000/profile)
+    [localhost:3000/products](localhost:3000/products)
+    [localhost:3000/products/[dynamicproductid]](localhost:3000/products/[dynamicproductid])
+    [localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid])
+    [localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid])
+    [localhost:3000/register](localhost:3000/register)
+    [localhost:3000/login](localhost:3000/login)
+    [localhost:3000/forgot-password](localhost:3000/forgot-password)
+
+
 ### local server 
 start server on localhost 
 ```bash
