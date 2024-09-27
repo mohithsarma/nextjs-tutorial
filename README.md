@@ -1,4 +1,4 @@
-## about 
+### about 
 
 app folder has the following concepts implimented
 - / root route with "tobedon is tobedon" 
@@ -12,17 +12,8 @@ app folder has the following concepts implimented
     - condition so that only 1000 reviews are allowed after that notFound() is called
     - custom not-found.tsx page for review page  after 1000 
 - custom not-found.tsx for app  
-
-## Getting Started
-
-First, run the development server:
-
+### temp
+- start server on localhost 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
