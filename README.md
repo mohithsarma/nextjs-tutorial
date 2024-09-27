@@ -31,7 +31,7 @@ app folder has the following concepts implimented
 *    [http://localhost:3000/products](http://localhost:3000/products)
 *    [http://localhost:3000/products/[dynamicproductid]](http://localhost:3000/products/[dynamicproductid])
 *    [http://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](http://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid])
-*    [http://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](http://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid1001])
+*    [http://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid1001]](http://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid1001])
 *    [http://localhost:3000/register](http://localhost:3000/register)
 *    [http://localhost:3000/login](http://localhost:3000/login)
 *    [http://localhost:3000/forgot-password](http://localhost:3000/forgot-password)
