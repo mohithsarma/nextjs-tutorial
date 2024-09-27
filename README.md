@@ -15,6 +15,8 @@ app folder has the following concepts implimented
 - for better viewing we use (auth) as a route group. 
     - this folder doesn't affect the route path of register, login, forgot-password
     - makes the dx better 
+- the root layout has been changed to include a header and footer 
+    - the header and footer just have header and footer text and a simple padding to pop the color 
 ### local server 
 start server on localhost 
 ```bash
