@@ -11,7 +11,10 @@ app folder has the following concepts implimented
     - both productId and reviewId as dynamic routes and review id with 
     - condition so that only 1000 reviews are allowed after that notFound() is called
     - custom not-found.tsx page for review page  after 1000 
-- custom not-found.tsx for app  
+- custom not-found.tsx for root app  
+- for better viewing we use (auth) as a route group. 
+    - this folder doesn't affect the route path of register, login, forgot-password
+    - makes the dx better 
 ### local server 
 start server on localhost 
 ```bash
