@@ -19,22 +19,22 @@ app folder has the following concepts implimented
     - the header and footer just have header and footer text and a simple padding to pop the color
 
 ### available Routes 
-*    [https://localhost:3000/](https://localhost:3000/)
-*    [https://localhost:3000/about](https://localhost:3000/about)
-*    [https://localhost:3000/blog](https://localhost:3000/blog)
-*    [https://localhost:3000/blog/first](https://localhost:3000/blog/first)
-*    [https://localhost:3000/blog/second](https://localhost:3000/blog/second)
-*    [https://localhost:3000/dashboard](https://localhost:3000/dashboard)
-*    [https://localhost:3000/docs](https://localhost:3000/docs)
-*    [https://localhost:3000/docs/[dynamicroute]](https://localhost:3000/docs/[dynamicroute])
-*    [https://localhost:3000/profile](https://localhost:3000/profile)
-*    [https://localhost:3000/products](https://localhost:3000/products)
-*    [https://localhost:3000/products/[dynamicproductid]](https://localhost:3000/products/[dynamicproductid])
-*    [https://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](https://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid])
-*    [https://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](https://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid])
-*    [https://localhost:3000/register](https://localhost:3000/register)
-*    [https://localhost:3000/login](https://localhost:3000/login)
-*    [https://localhost:3000/forgot-password](https://localhost:3000/forgot-password)
+*    [http://localhost:3000/](http://localhost:3000/)
+*    [http://localhost:3000/about](http://localhost:3000/about)
+*    [http://localhost:3000/blog](http://localhost:3000/blog)
+*    [http://localhost:3000/blog/first](http://localhost:3000/blog/first)
+*    [http://localhost:3000/blog/second](http://localhost:3000/blog/second)
+*    [http://localhost:3000/dashboard](http://localhost:3000/dashboard)
+*    [http://localhost:3000/docs](http://localhost:3000/docs)
+*    [http://localhost:3000/docs/[dynamicroute]](http://localhost:3000/docs/[dynamicroute])
+*    [http://localhost:3000/profile](http://localhost:3000/profile)
+*    [http://localhost:3000/products](http://localhost:3000/products)
+*    [http://localhost:3000/products/[dynamicproductid]](http://localhost:3000/products/[dynamicproductid])
+*    [http://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](http://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid])
+*    [http://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](http://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid])
+*    [http://localhost:3000/register](http://localhost:3000/register)
+*    [http://localhost:3000/login](http://localhost:3000/login)
+*    [http://localhost:3000/forgot-password](http://localhost:3000/forgot-password)
 
 
 ### local server 
