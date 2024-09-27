@@ -19,38 +19,23 @@ app folder has the following concepts implimented
     - the header and footer just have header and footer text and a simple padding to pop the color
 
 ### available Routes 
-*    [localhost:3000/](localhost:3000/)
-*    [localhost:3000/about](localhost:3000/about)
-*    [localhost:3000/blog](localhost:3000/blog)
-*    [localhost:3000/blog/first](localhost:3000/blog/first)
-*    [localhost:3000/blog/second](localhost:3000/blog/second)
-*    [localhost:3000/dashboard](localhost:3000/dashboard)
-*    [localhost:3000/docs](localhost:3000/docs)
-*    [localhost:3000/docs/[dynamicroute]](localhost:3000/docs/[dynamicroute])
-*    [localhost:3000/profile](localhost:3000/profile)
-*    [localhost:3000/products](localhost:3000/products)
-*    [localhost:3000/products/[dynamicproductid]](localhost:3000/products/[dynamicproductid])
-*    [localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid])
-*    [localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid])
-*    [localhost:3000/register](localhost:3000/register)
-*    [localhost:3000/login](localhost:3000/login)
-*    [localhost:3000/forgot-password](localhost:3000/forgot-password)
+*    [https://localhost:3000/](https://localhost:3000/)
+*    [https://localhost:3000/about](https://localhost:3000/about)
+*    [https://localhost:3000/blog](https://localhost:3000/blog)
+*    [https://localhost:3000/blog/first](https://localhost:3000/blog/first)
+*    [https://localhost:3000/blog/second](https://localhost:3000/blog/second)
+*    [https://localhost:3000/dashboard](https://localhost:3000/dashboard)
+*    [https://localhost:3000/docs](https://localhost:3000/docs)
+*    [https://localhost:3000/docs/[dynamicroute]](https://localhost:3000/docs/[dynamicroute])
+*    [https://localhost:3000/profile](https://localhost:3000/profile)
+*    [https://localhost:3000/products](https://localhost:3000/products)
+*    [https://localhost:3000/products/[dynamicproductid]](https://localhost:3000/products/[dynamicproductid])
+*    [https://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](https://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid])
+*    [https://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](https://localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid])
+*    [https://localhost:3000/register](https://localhost:3000/register)
+*    [https://localhost:3000/login](https://localhost:3000/login)
+*    [https://localhost:3000/forgot-password](https://localhost:3000/forgot-password)
 
-* [localhost:3000/](localhost:3000/) - Homepage
-* [localhost:3000/about](localhost:3000/about) - About Page
-* [localhost:3000/blog](localhost:3000/blog) - Blog Main Page
-* [localhost:3000/blog/first](localhost:3000/blog/first) - First Blog Post
-* [localhost:3000/blog/second](localhost:3000/blog/second) - Second Blog Post
-* [localhost:3000/dashboard](localhost:3000/dashboard) - Dashboard
-* [localhost:3000/docs](localhost:3000/docs) - Docs Main Page
-* [localhost:3000/docs/[dynamicroute]](localhost:3000/docs/[dynamicroute]) - Dynamic Docs Route (replace [dynamicroute] with actual value)
-* [localhost:3000/profile](localhost:3000/profile) - Profile Page
-* [localhost:3000/products](localhost:3000/products) - Products Main Page
-* [localhost:3000/products/[dynamicproductid]](localhost:3000/products/[dynamicproductid]) - Dynamic Product Page (replace [dynamicproductid] with actual value)
-* [localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]](localhost:3000/products/[dynamicproductid]/reviews/[dynamicreviewid]) - Dynamic Product Review Page (replace [dynamicproductid] and [dynamicreviewid] with actual values)
-* [localhost:3000/register](localhost:3000/register) - Register Page
-* [localhost:3000/login](localhost:3000/login) - Login Page
-* [localhost:3000/forgot-password](localhost:3000/forgot-password) - Forgot Password Page
 
 ### local server 
 start server on localhost 
