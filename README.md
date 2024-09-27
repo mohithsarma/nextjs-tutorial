@@ -13,7 +13,7 @@ app folder has the following concepts implimented
     - custom not-found.tsx page for review page  after 1000 
 - custom not-found.tsx for app  
 ### temp
-- start server on localhost 
+start server on localhost 
 ```bash
 npm run dev
 ```
