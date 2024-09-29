@@ -3,6 +3,7 @@
 app folder has the following concepts implimented
 - / root route with "tobedon is tobedon" 
 - profile and about with page.tsx as basic route.
+    - added to return a metadata title "about".
 - blog with first and second pages as fixed routes 
 - dashboard with a extra file and extra function in page.tsx which can't be accessed via route
 - docs with [[...slug]] slug for dynamic routes which returns different
@@ -11,6 +12,8 @@ app folder has the following concepts implimented
     - both productId and reviewId as dynamic routes and review id with 
     - condition so that only 1000 reviews are allowed after that notFound() is called
     - custom not-found.tsx page for review page  after 1000 
+    - created to return dynamic function using generateMetadata for using dynamic data.
+    - Promise \< Metadata \> function is used to return after a set timeout. 
 - custom not-found.tsx for root app  
 - for better viewing we use (auth) as a route group. 
     - this folder doesn't affect the route path of register, login, forgot-password
@@ -19,7 +22,7 @@ app folder has the following concepts implimented
     - the header and footer just have header and footer text and a simple padding to pop the color
 - Added custom layout.tsx for [productId] folder 
     - as this is only run at the productId next routes it will not affect other routes. 
-
+-
 ### available Routes 
 *    [http://localhost:3000/](http://localhost:3000/)
 *    [http://localhost:3000/about](http://localhost:3000/about)
