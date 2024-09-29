@@ -22,7 +22,6 @@ app folder has the following concepts implimented
     - the header and footer just have header and footer text and a simple padding to pop the color
 - Added custom layout.tsx for [productId] folder 
     - as this is only run at the productId next routes it will not affect other routes. 
--
 ### available Routes 
 *    [http://localhost:3000/](http://localhost:3000/)
 *    [http://localhost:3000/about](http://localhost:3000/about)
